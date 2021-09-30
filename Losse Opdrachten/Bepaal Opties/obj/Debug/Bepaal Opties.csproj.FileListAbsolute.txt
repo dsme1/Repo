@@ -1,0 +1,7 @@
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Bepaal Opties\bin\Debug\Bepaal Opties.exe.config
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Bepaal Opties\bin\Debug\Bepaal Opties.exe
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Bepaal Opties\bin\Debug\Bepaal Opties.pdb
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Bepaal Opties\obj\Debug\Bepaal Opties.csproj.AssemblyReference.cache
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Bepaal Opties\obj\Debug\Bepaal Opties.csproj.CoreCompileInputs.cache
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Bepaal Opties\obj\Debug\Bepaal Opties.exe
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Bepaal Opties\obj\Debug\Bepaal Opties.pdb

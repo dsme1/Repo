@@ -1,0 +1,7 @@
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Programmeerbasis Quiz\bin\Debug\Programmeerbasis Quiz.exe.config
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Programmeerbasis Quiz\bin\Debug\Programmeerbasis Quiz.exe
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Programmeerbasis Quiz\bin\Debug\Programmeerbasis Quiz.pdb
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Programmeerbasis Quiz\obj\Debug\Programmeerbasis Quiz.csproj.AssemblyReference.cache
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Programmeerbasis Quiz\obj\Debug\Programmeerbasis Quiz.csproj.CoreCompileInputs.cache
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Programmeerbasis Quiz\obj\Debug\Programmeerbasis Quiz.exe
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Programmeerbasis Quiz\obj\Debug\Programmeerbasis Quiz.pdb

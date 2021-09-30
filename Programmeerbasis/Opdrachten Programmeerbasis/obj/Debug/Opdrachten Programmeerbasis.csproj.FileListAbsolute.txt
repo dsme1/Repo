@@ -1,0 +1,14 @@
+D:\Drive\School\Opdrachten\Repo\School\Opdrachten Programmeerbasis\bin\Debug\Opdrachten Programmeerbasis.exe.config
+D:\Drive\School\Opdrachten\Repo\School\Opdrachten Programmeerbasis\bin\Debug\Opdrachten Programmeerbasis.exe
+D:\Drive\School\Opdrachten\Repo\School\Opdrachten Programmeerbasis\bin\Debug\Opdrachten Programmeerbasis.pdb
+D:\Drive\School\Opdrachten\Repo\School\Opdrachten Programmeerbasis\obj\Debug\Opdrachten Programmeerbasis.csproj.AssemblyReference.cache
+D:\Drive\School\Opdrachten\Repo\School\Opdrachten Programmeerbasis\obj\Debug\Opdrachten Programmeerbasis.csproj.CoreCompileInputs.cache
+D:\Drive\School\Opdrachten\Repo\School\Opdrachten Programmeerbasis\obj\Debug\Opdrachten Programmeerbasis.exe
+D:\Drive\School\Opdrachten\Repo\School\Opdrachten Programmeerbasis\obj\Debug\Opdrachten Programmeerbasis.pdb
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Opdrachten Programmeerbasis\bin\Debug\Opdrachten Programmeerbasis.exe.config
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Opdrachten Programmeerbasis\bin\Debug\Opdrachten Programmeerbasis.exe
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Opdrachten Programmeerbasis\bin\Debug\Opdrachten Programmeerbasis.pdb
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Opdrachten Programmeerbasis\obj\Debug\Opdrachten Programmeerbasis.csproj.AssemblyReference.cache
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Opdrachten Programmeerbasis\obj\Debug\Opdrachten Programmeerbasis.csproj.CoreCompileInputs.cache
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Opdrachten Programmeerbasis\obj\Debug\Opdrachten Programmeerbasis.exe
+D:\Drive\School\Opdrachten\Repo\Programmeerbasis\Opdrachten Programmeerbasis\obj\Debug\Opdrachten Programmeerbasis.pdb

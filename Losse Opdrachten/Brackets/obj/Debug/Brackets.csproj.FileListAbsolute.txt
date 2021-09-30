@@ -1,0 +1,7 @@
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Brackets\bin\Debug\Brackets.exe.config
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Brackets\bin\Debug\Brackets.exe
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Brackets\bin\Debug\Brackets.pdb
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Brackets\obj\Debug\Brackets.csproj.AssemblyReference.cache
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Brackets\obj\Debug\Brackets.csproj.CoreCompileInputs.cache
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Brackets\obj\Debug\Brackets.exe
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Brackets\obj\Debug\Brackets.pdb

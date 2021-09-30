@@ -1,0 +1,7 @@
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Faculteiten\bin\Debug\Faculteiten.exe.config
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Faculteiten\bin\Debug\Faculteiten.exe
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Faculteiten\bin\Debug\Faculteiten.pdb
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Faculteiten\obj\Debug\Faculteiten.csproj.AssemblyReference.cache
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Faculteiten\obj\Debug\Faculteiten.csproj.CoreCompileInputs.cache
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Faculteiten\obj\Debug\Faculteiten.exe
+D:\Drive\School\Opdrachten\Repo\Extra Opdrachten\Faculteiten\obj\Debug\Faculteiten.pdb
