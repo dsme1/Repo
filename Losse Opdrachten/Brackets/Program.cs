@@ -11,10 +11,10 @@ namespace Brackets
     {
         static void Main(string[] args)
         {
-            char[] userInput;
+            
 
             Console.WriteLine("Voer een set brackets in die in balans is. Andere tekens of brackets die niet in balans zijn zullen niet worden geaccepteerd.");
-            userInput = Console.ReadLine().ToCharArray();
+            var userInput = Console.ReadLine();
 
             //takes the user input and checks to see if there are any other characters in it beside brackets. Afterwards it checks to see if brackets are balanced.
             if (HasLetters(userInput))
@@ -61,20 +61,18 @@ namespace Brackets
         /// </summary>
         /// <param name="userInput"> array of chars from users input </param>
         /// <returns> Boolean to main if else statement </returns>
-        static bool HasLetters(char[] userInput)
+        static bool HasLetters(string userInput)
         {
-            char[] alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*-_=+:;<>,.?/".ToCharArray();
+            string alpha = "[{()}]";
             bool hasLetter = true;
 
-            string userString = userInput.ToString();
-            userString = userString.ToUpper();
-            userInput = userString.ToCharArray();
+            userInput = userInput.ToUpper();
 
             for (int i = 0; i < userInput.Length; i++)
             {
                 for (int j = 0; j < alpha.Length; j++)
                 {
-                    if (userInput[i] == alpha[j])
+                    if (userInput[i] != alpha[j])
                     {
                         hasLetter = true;
                         break;
@@ -91,27 +89,31 @@ namespace Brackets
         /// </summary>
         /// <param name="userInput"> array of chars from users input </param>
         /// <returns> Boolean for main if else statement </returns>
-        static bool BracketBalance(char[] userInput)
+        static bool BracketBalance(string userInput)
         {
             //empty stack for storing characters
-            Stack<char> str = new Stack<char>();
+            Stack<char> charStack = new Stack<char>();
 
             //iterates over userinput and matches brackets using MatchingPair()
             for (int i= 0; i < userInput.Length; i++)
             {
                 if (userInput[i] == '{' || userInput[i] == '(' || userInput[i] == '[')
-                    str.Push(userInput[i]);
+                    charStack.Push(userInput[i]);
 
                 if (userInput[i] == '}' || userInput[i] == ')' || userInput[i] == ']')
                     if (userInput.Count() == 0)
                     {
                         return false;
-                    }else if (!MatchingPair(str.Pop(), userInput[i])){
+                    }
+                    else if (charStack.Count == 0)
+                        return false;
+                    else if (!MatchingPair(charStack.Pop(), userInput[i]))
+                    {
                         return false;
                     }
             }
 
-            if (str.Count() == 0)
+            if (charStack.Count() == 0)
                 return true;
             else
                 return false;
