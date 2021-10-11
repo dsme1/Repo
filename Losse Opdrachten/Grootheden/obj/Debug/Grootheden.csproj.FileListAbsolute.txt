@@ -5,3 +5,10 @@ D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Grootheden\obj\Debug\Grootheden
 D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Grootheden\obj\Debug\Grootheden.csproj.CoreCompileInputs.cache
 D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Grootheden\obj\Debug\Grootheden.exe
 D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Grootheden\obj\Debug\Grootheden.pdb
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Grootheden\bin\Debug\Grootheden.exe.config
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Grootheden\bin\Debug\Grootheden.exe
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Grootheden\bin\Debug\Grootheden.pdb
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Grootheden\obj\Debug\Grootheden.csprojAssemblyReference.cache
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Grootheden\obj\Debug\Grootheden.csproj.CoreCompileInputs.cache
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Grootheden\obj\Debug\Grootheden.exe
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Grootheden\obj\Debug\Grootheden.pdb

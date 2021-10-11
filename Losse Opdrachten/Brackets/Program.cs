@@ -66,8 +66,6 @@ namespace Brackets
             string alpha = "[{()}]";
             bool hasLetter = true;
 
-            userInput = userInput.ToUpper();
-
             for (int i = 0; i < userInput.Length; i++)
             {
                 for (int j = 0; j < alpha.Length; j++)
