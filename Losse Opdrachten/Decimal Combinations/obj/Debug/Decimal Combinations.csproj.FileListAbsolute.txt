@@ -1,0 +1,7 @@
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\bin\Debug\Decimal Combinations.exe.config
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\bin\Debug\Decimal Combinations.exe
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\bin\Debug\Decimal Combinations.pdb
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\obj\Debug\Decimal Combinations.csprojAssemblyReference.cache
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\obj\Debug\Decimal Combinations.csproj.CoreCompileInputs.cache
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\obj\Debug\Decimal Combinations.exe
+E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\obj\Debug\Decimal Combinations.pdb
