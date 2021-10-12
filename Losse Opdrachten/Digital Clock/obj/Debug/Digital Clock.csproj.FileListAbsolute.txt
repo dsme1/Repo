@@ -1,0 +1,7 @@
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Digital Clock\bin\Debug\Digital Clock.exe.config
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Digital Clock\bin\Debug\Digital Clock.exe
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Digital Clock\bin\Debug\Digital Clock.pdb
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Digital Clock\obj\Debug\Digital Clock.csproj.AssemblyReference.cache
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Digital Clock\obj\Debug\Digital Clock.csproj.CoreCompileInputs.cache
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Digital Clock\obj\Debug\Digital Clock.exe
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Digital Clock\obj\Debug\Digital Clock.pdb

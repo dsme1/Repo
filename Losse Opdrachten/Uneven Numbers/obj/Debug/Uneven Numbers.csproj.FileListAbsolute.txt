@@ -1,0 +1,7 @@
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Uneven Numbers\bin\Debug\Uneven Numbers.exe.config
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Uneven Numbers\bin\Debug\Uneven Numbers.exe
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Uneven Numbers\bin\Debug\Uneven Numbers.pdb
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Uneven Numbers\obj\Debug\Uneven Numbers.csproj.AssemblyReference.cache
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Uneven Numbers\obj\Debug\Uneven Numbers.csproj.CoreCompileInputs.cache
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Uneven Numbers\obj\Debug\Uneven Numbers.exe
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Uneven Numbers\obj\Debug\Uneven Numbers.pdb
