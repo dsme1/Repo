@@ -1,0 +1,7 @@
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Leeftijdsgrens\obj\Debug\Leeftijdsgrens.csproj.AssemblyReference.cache
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Leeftijdsgrens\obj\Debug\Leeftijdsgrens.csproj.CoreCompileInputs.cache
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Leeftijdsgrens\bin\Debug\Leeftijdsgrens.exe.config
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Leeftijdsgrens\bin\Debug\Leeftijdsgrens.exe
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Leeftijdsgrens\bin\Debug\Leeftijdsgrens.pdb
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Leeftijdsgrens\obj\Debug\Leeftijdsgrens.exe
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Leeftijdsgrens\obj\Debug\Leeftijdsgrens.pdb
