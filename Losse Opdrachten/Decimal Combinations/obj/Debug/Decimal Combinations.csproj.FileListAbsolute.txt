@@ -5,3 +5,10 @@ E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\obj\Debug\
 E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\obj\Debug\Decimal Combinations.csproj.CoreCompileInputs.cache
 E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\obj\Debug\Decimal Combinations.exe
 E:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\obj\Debug\Decimal Combinations.pdb
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\bin\Debug\Decimal Combinations.exe.config
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\bin\Debug\Decimal Combinations.exe
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\bin\Debug\Decimal Combinations.pdb
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\obj\Debug\Decimal Combinations.csproj.AssemblyReference.cache
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\obj\Debug\Decimal Combinations.csproj.CoreCompileInputs.cache
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\obj\Debug\Decimal Combinations.exe
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Decimal Combinations\obj\Debug\Decimal Combinations.pdb

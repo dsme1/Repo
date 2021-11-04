@@ -1,0 +1,98 @@
+<html lang="nl">
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <meta hhtp-equiv="Content-Type" content="text/html";
+        charset="UTF-8">
+        <title>Lab 17</title>
+        <style>
+
+        </style>
+    </head>
+
+    <body>
+
+        <div>
+            <div>
+                <h3>Wat is de stadsnaam?</h3>
+                <p>U heeft 5 pogingen</p>
+                <div id="stadsnaam">
+                    
+                </div>
+            </div>
+            
+            <div>
+                <form action="POST" onsubmit="return checkCorrect();">
+                    <label for="guess">Guess:</label><br>
+                    <input type="text" id="guess" name="guess" value="Neem een gok">
+                    <input type="submit" value="submit">
+                </form>
+            </div>
+
+            <div id="showGuess">
+                
+            </div>
+
+        </div>
+
+        <script>
+        //game variables for words and number of turns                
+        var lingoWords = [
+            'amsterdam', 'barcelona', 'londen', 'parijs', 'berlijn', 'antwerpen', 'rome', 'madrid'
+        ];
+        var currentWord = '';
+        var guessNumber = 0;
+
+        //chooses random word
+        currentWord = lingoWords[Math.floor(Math.random()*lingoWords.length)];
+        
+        //hides currently chosen word
+        hiddenWord = currentWord.replaceAll(/./gi, '?');
+        document.getElementById("stadsnaam").innerHTML = hiddenWord + "<br>";
+
+        //replaces characters at specific index of string
+        function changeChar(string, index, character) {
+            if(index > string.length-1) {
+                return string;
+            }//if
+            return string.substring(0, index) + character + string.substring(index + 1);
+        }//function
+
+        //the gameloop function
+        function checkCorrect() {
+            var guessWord = document.getElementById("guess").value;            
+
+            //checks guessword against currently selected random word
+            if (guessWord == currentWord){
+                document.getElementById("showGuess").innerHTML = "Succes";
+            }//if 
+
+            //checks if the game has taken 5 turns
+            else if (guessNumber === 5){
+                document.getElementById("showGuess").innerHTML = "U heeft geen pogingen meer <br><br>" + "Het woord was: " + currentWord
+                return false
+            }//else if
+
+            //checks for correctness of letters
+            else {
+                for (i=0; i < guessWord.length; i++){
+                    if (guessWord.charAt(i) == currentWord.charAt(i)){
+                        if (hiddenWord.charAt(i) == '?'){
+                            hiddenWord = changeChar(hiddenWord, i, currentWord.charAt(i))
+                            document.getElementById("stadsnaam").innerHTML = hiddenWord;
+                        }//if                        
+                    }//if
+                }//for
+                
+                $("body").append("<br>" + guessWord);
+                guessNumber++
+                return false
+            } //else
+
+            return false;
+        }; //function
+
+        
+
+        </script>
+    </body>
+</html>

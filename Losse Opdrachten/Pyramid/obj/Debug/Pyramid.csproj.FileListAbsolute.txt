@@ -1,0 +1,7 @@
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Pyramid\bin\Debug\Pyramid.exe.config
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Pyramid\bin\Debug\Pyramid.exe
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Pyramid\bin\Debug\Pyramid.pdb
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Pyramid\obj\Debug\Pyramid.csproj.AssemblyReference.cache
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Pyramid\obj\Debug\Pyramid.csproj.CoreCompileInputs.cache
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Pyramid\obj\Debug\Pyramid.exe
+D:\Drive\School\Opdrachten\Repo\Losse Opdrachten\Pyramid\obj\Debug\Pyramid.pdb

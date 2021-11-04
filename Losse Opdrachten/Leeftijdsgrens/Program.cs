@@ -38,7 +38,8 @@ namespace Leeftijdsgrens
                 Environment.Exit(0);
             }
 
-            //congratulates user if a certain age, warns at 62 and defaults to showing their age
+            //congratulates user if a certain age, warns at 62 and defaults to showing their age 
+            //switches combineren controleren c#
             switch (age)
             {
                 case 10:
